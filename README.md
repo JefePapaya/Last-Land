@@ -19,7 +19,7 @@ What you will need:
     - [Small (A4 sheet size) in colors](Boards/Game Board-color-A4.pdf) 
     - [Big (A3, split in two A4) in black and white](Boards/Game Board-BW-A3.pdf)
     - [Big (A3, split in two A4) in colors](Boards/Game Board-color-A3.pdf)
-2. One regular six-sided dice
+2. Two regular six-sided dice
 3. Tile exploitation tokens -- find your solution or print one:
     - [Small in colors (works for the small board)](Resources/Exploitation Tokens-A4.pdf)
     - [Big in colors (works for the big board)](Resources/Exploitation Tokens-A3.pdf) 

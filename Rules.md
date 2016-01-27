@@ -1,4 +1,4 @@
-Last Land Rules v0.1
+Last Land Rules v0.2
 =================
 This is a turn-based competitive board game for 2-6 players. Players seek to exploit the land tiles to collect the most resources (points). To achieve that, they move their avatars around the board, drain and explore tiles. The game board is destroyed throughout the game. Each game lasts more or less 30-45 minutes and consumes one board.
 
@@ -7,7 +7,7 @@ Components
 * 6x colored player *pins*
 *  150x colored *exploitation tokens* (25 for each player with its respective color)
 *  1x Hexagonal Grid Board with 37 *tiles*
-*  1x six-sided dice
+*  2x six-sided dice
 
 Setup
 --------
@@ -16,11 +16,11 @@ Setup
 
 Turn order
 --------------
-Each player rolls one dice. The one with the highest roll plays the first turn. Then the player to his/her left is the next and so on, following a clockwise order.
+Each player rolls two dice. The one with the highest sum plays the first turn. Then the player to his/her left is the next and so on, following a clockwise order.
 
 Turn rules
 --------------
-1. At the start of a turn the player rolls one dice. The roll will be the amount of *Action Points (AP)* he/she will have in this turn
+1. At the start of a turn the player rolls two dice and chooses one. Example: if he/she rolls 2 and 3, he/she can choose either 2 or 3. This will be the amount of *Action Points (AP)* he/she will have in this turn
 2. The player uses *action points* to perform the following actions:
   * **Move**: moves his/her *pin* to an adjacent *tile*. There are some restrictions to movement explained in section Moving. Costs 1 *AP*
   * **Drain**: drains the *tile* putting a *drain marker* on it. *Drain markers* can be made with a stroke of a pen on the *tile*. Drain can cause *tile depletion*, explained in section Tile. Costs 1 *AP* per *drain marker*
